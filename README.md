@@ -3,9 +3,15 @@ About Dataset:-
 
 • step - maps a unit of time in the real world. In this case 1 step is 1 hour of time. Total steps  744 (30 days simulation). 
 
-• type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER. • amount - amount of the transaction in local currency. 
+• type - CASH-IN, CASH-OUT, DEBIT, PAYMENT and TRANSFER. 
 
-• nameOrig - customer who started the transaction • oldbalanceOrg - initial balance before the transaction • newbalanceOrig - new balance after the transaction 
+• amount - amount of the transaction in local currency. 
+
+• nameOrig - customer who started the transaction 
+
+• oldbalanceOrg - initial balance before the transaction 
+
+• newbalanceOrig - new balance after the transaction 
 
 • nameDest - customer who is the recipient of the transaction 
 
